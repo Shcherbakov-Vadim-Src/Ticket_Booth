@@ -176,6 +176,7 @@ export default function Booth() {
                         </div>
                         <button type="submit" className={styles.button}>Рассчитать</button>
                 </form>
+                <p className={styles.result}>Предложения:</p>
                 <div className={styles.flex_column}>
                     <div>
                         <p className={styles.company}>Аэрофлот</p>
